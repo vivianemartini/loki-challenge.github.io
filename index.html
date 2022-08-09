@@ -46,10 +46,15 @@
                 </div>
                 <div class="btn-box">
                     <button class="btn-1"><a href="https://disneyplusoriginals.disney.com/show/loki" target="_blank">Assitir agora</a></button>
-                    <button class="btn-2"><a href="" >Trailer</a></button>
+                    <button onclick="toggleVideo();" class="btn-2"><a href="" >Trailer</a></button>
+                    <div class="trailer">
+                        <video src="img/loki-trailer.mp4" controls="true" autoplay="true"></video>
+                        <img class="close" onclick="toggleVideo();" src="/img/x-solid.svg" alt="close button">
+                    </div>
                 </div>
             </section>
         </section>
     </main>
+    <script src="script.js"></script>
 </body>
 </html>
