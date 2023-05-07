@@ -18,3 +18,10 @@ This is my solution for the [Codelandia - Iuri Silva](https://discord.com/channe
 # Article used
 
 *https://www.freecodecamp.org/news/css-background-image-with-html-example-code/
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+- Thanks Codelandia
+
